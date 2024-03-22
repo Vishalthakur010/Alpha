@@ -1,5 +1,5 @@
 class stable{
-    public static void sort(int arr[]){
+    static void sort(int arr[]){
         //Finding max
         int max= Integer.MIN_VALUE;
         for(int i=0; i<arr.length; i++){
@@ -30,7 +30,7 @@ class stable{
             arr[i]=output[i];
         }
     }
-    public static void print(int arr[]){
+    static void print(int arr[]){
         for(int i=0; i<arr.length; i++){
             System.out.print(arr[i]+" ");
         }
