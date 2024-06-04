@@ -1,3 +1,5 @@
+// print numbers in decreasing order
+
 public class decreasing_no {
 
     public static void decreasing(int n){
