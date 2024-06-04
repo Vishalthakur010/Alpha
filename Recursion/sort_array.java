@@ -1,3 +1,5 @@
+//check if a given array is sorted or not
+
 public class sort_array {
     public static boolean sorted(int arr[], int i){
         if(i==arr.length-1){

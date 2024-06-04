@@ -1,3 +1,5 @@
+// print factorial of a number n
+
 public class factorial {
     public static int fact(int n){
         if(n==0){
