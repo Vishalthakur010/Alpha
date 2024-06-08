@@ -1,3 +1,5 @@
+// write a progra to find the first occurence of an element in an array
+
 public class first_occurence {
     public static int check_sort(int arr[], int key, int i){
         if(i==arr.length){
